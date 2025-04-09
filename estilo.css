@@ -30,6 +30,16 @@ input{
     display: flex;
     justify-content: space-evenly;
     background-color: #dbd9d9;
+    
 }
 .painel{
     background-color: #dbd9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 16rem;
+    
+}
+#resp{
+    background-color:  #dbd9d9;
+}
